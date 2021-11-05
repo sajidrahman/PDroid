@@ -1,4 +1,4 @@
-androguard==3.4.0
+androguard==3.4.0a1
 asn1crypto==1.2.0
 astroid==2.3.2
 attrs==19.3.0
