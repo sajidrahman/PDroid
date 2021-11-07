@@ -27,8 +27,8 @@ PDroid is a tool that is part of an ongoing project at the PERC-Lab. If you use 
 5. cd back to original folder and run script
 
 ### Commands
-`git clone https://github.com/sajidrahman/PDroid.git`
-`cd PDroid`
-install requirements
-`mv getPerms.py .. && cd ..`
-`python3 getPerms.py`
+`git clone https://github.com/sajidrahman/PDroid.git`  
+`cd PDroid`  
+install requirements  
+`mv getPerms.py .. && cd ..`  
+`python3 getPerms.py`  
