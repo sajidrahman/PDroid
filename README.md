@@ -18,3 +18,17 @@ PDroid is a tool that is part of an ongoing project at the PERC-Lab. If you use 
   organization={Springer}
 }
 ```
+
+## Setup
+1. Clone repo in same directory where all apks are stored
+2. cd into PDroid
+3. Create virtual environment and make sure all dependancies are installed
+4. Move getPerms.py into original folder with the apks
+5. cd back to original folder and run script
+
+### Commands
+`git clone https://github.com/sajidrahman/PDroid.git`
+`cd PDroid`
+install requirements
+`mv getPerms.py .. && cd ..`
+`python3 getPerms.py`
